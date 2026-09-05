@@ -1,0 +1,70 @@
+{
+  "logo": {
+    "image": "/uploads/logo.jpg"
+  },
+  "hero": {
+    "heading": "Grow Your Business With Digital Marketing",
+    "description": "We help businesses grow online with effective, affordable digital marketing and web solutions."
+  },
+  "services": [
+    { "name": "Social Media Marketing", "desc": "Grow your brand presence across all social platforms.", "price": "₹15,999" },
+    { "name": "SEO", "desc": "Rank higher on Google and get found by the right audience.", "price": "₹17,999" },
+    { "name": "Website Design & Development", "desc": "Modern, fast and mobile-friendly websites that convert.", "price": "₹14,599" },
+    { "name": "Branding & Lead Generation", "desc": "Consistent, quality leads that help your brand stand out.", "price": "₹999" },
+    { "name": "Content & Reels Marketing", "desc": "Scroll-stopping content that builds trust and drives sales.", "price": "₹16,699" },
+    { "name": "Google Business Profile (GMB)", "desc": "Get found on Google Maps and local search with a fully optimised business profile.", "price": "₹4,999" },
+    { "name": "Google Ads Management", "desc": "Targeted Google Ad campaigns managed end-to-end to bring in real leads.", "price": "₹15,999" },
+    { "name": "Meta Ads Management", "desc": "Facebook and Instagram ad campaigns managed for maximum reach and ROI.", "price": "₹12,999" },
+    { "name": "Content Writing", "desc": "SEO-friendly articles and website content that read well and rank well.", "price": "₹999/article" },
+    { "name": "Email Marketing", "desc": "Newsletters and campaign emails that keep your customers engaged.", "price": "₹2,999/month" },
+    { "name": "Video Editing", "desc": "Polished, share-ready videos for social media, reels and ads.", "price": "₹799/video" },
+    { "name": "WhatsApp Marketing", "desc": "Broadcast offers and updates directly to customers on WhatsApp.", "price": "₹2,999/month" }
+  ],
+  "pricing": [
+    { "name": "Basic", "price": "₹8,599", "desc": "For small businesses starting their online journey.", "features": "Social Media Setup, Basic SEO, 2 Posts/Week" },
+    { "name": "Standard", "price": "₹13,899", "desc": "Our most popular plan for growing brands.", "features": "SEO, Google & Meta Ads, Content Marketing, 5 Posts/Week", "popular": true },
+    { "name": "Professional", "price": "₹22,499", "desc": "Full-service package for serious business growth.", "features": "Website + SEO + Ads + Branding, Daily Content, Priority Support" }
+  ],
+  "faq": [
+    { "q": "How soon can we get started?", "a": "Most projects kick off within 2-3 business days of finalising your plan — we'll share a clear timeline before we begin." },
+    { "q": "Do I need to sign a long-term contract?", "a": "No. Our plans are billed monthly and you can upgrade, downgrade or stop anytime — no long lock-ins." },
+    { "q": "Can I mix services from different plans?", "a": "Yes. The bundled plans are a starting point — tell us what your business needs and we'll customise a package for you." },
+    { "q": "Will I get reports on my campaigns?", "a": "Yes, you'll get regular performance updates so you always know what's working and where your budget is going." },
+    { "q": "Do you work with businesses outside India?", "a": "Yes, we work with clients across locations — most communication happens over WhatsApp, call or email." },
+    { "q": "What if I only need one service, not a full plan?", "a": "That's fine — every service on our Services page can be booked individually at the listed price." }
+  ],
+  "team": [
+    {
+      "role": "Founder",
+      "name": "Ayush Kumar Shrivastav",
+      "photo": "/uploads/team1.jpg",
+      "bio": "Ayush founded Dream Digital Hub Agency with a simple goal — helping businesses build a digital presence that actually drives growth. He leads the agency's strategy across digital marketing, branding and lead generation, working closely with clients to turn plans into measurable results.",
+      "skills": ["Digital Marketing", "Social Media Marketing", "Brand Promotion", "Lead Generation", "Business Development", "CRM"]
+    },
+    {
+      "role": "Co-Founder",
+      "name": "Harshit Singh Gurjar",
+      "photo": "/uploads/team2.jpg",
+      "bio": "Harshit co-founded Dream Digital Hub Agency and drives its business development and growth strategy. He focuses on turning ideas into practical campaigns — from brand promotion to customer acquisition — that help clients grow their online presence.",
+      "skills": ["Business Development", "Social Media & Brand Promotion", "Lead Generation", "Sales & Customer Acquisition", "Client Communication"]
+    },
+    {
+      "role": "Web Developer & SEO Specialist",
+      "name": "Prince Sharma",
+      "photo": "/uploads/team3.jpg",
+      "bio": "Prince builds the websites behind Dream Digital Hub's client projects — modern, responsive and built to rank. He combines clean frontend development with technical and on-page SEO so every site looks good and gets found.",
+      "skills": ["Website Development", "Responsive Design", "UI/UX Implementation", "Performance Optimization", "Technical SEO", "On-Page SEO"]
+    }
+  ],
+  "contact": {
+    "phone": "+91 96255 36265",
+    "email": "Infodreamdigitalhubagency@gmail.com",
+    "whatsapp": "919625536265"
+  },
+  "social": {
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/",
+    "linkedin": "https://linkedin.com/"
+  },
+  "footer": "© 2026 Dream Digital Hub Agency. All Rights Reserved."
+}
